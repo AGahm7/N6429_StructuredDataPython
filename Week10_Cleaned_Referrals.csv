@@ -1,0 +1,13 @@
+referral_id,patient_id,clinic_code,service_type,priority,referral_date,due_date,completion_date
+R001,P001,C01,Medication review,Routine,2026-08-03,2026-08-17,2026-08-13
+R002,P002,C02,Social work,Routine,2026-08-05,2026-08-19,2026-08-18
+R003,P003,C03,Nutrition,High,2026-08-07,2026-08-14,2026-08-14
+R004,P004,C01,Care coordination,Routine,2026-08-09,2026-08-23,2026-08-21
+R005,P005,C02,Medication review,Routine,2026-08-11,2026-08-25,2026-08-26
+R006,P006,C03,Social work,High,2026-08-13,2026-08-20,2026-08-23
+R007,P007,C01,Nutrition,Routine,2026-08-15,2026-08-29,
+R008,P008,C02,Care coordination,Routine,2026-08-17,2026-08-31,2026-09-03
+R009,P009,C03,Medication review,High,2026-08-19,2026-08-26,2026-09-01
+R010,P010,C01,Social work,Routine,2026-08-21,2026-09-04,2026-08-31
+R011,P011,C02,Nutrition,Routine,2026-08-23,2026-09-06,2026-09-05
+R012,P012,C03,Care coordination,High,2026-08-25,2026-09-01,2026-09-01
